@@ -9,7 +9,7 @@ clustering. Other Famous HA tools are, Corosync and Pacemaker.
 1. A heartbeat signal or massage at regular intervals to finds if cluster nodes working correctly.
 2. Heartbeat program runs specialized scripts automatically, supporting two or more nodes clusters.
 
-
+<img width="400" alt="ha-screen" src="https://user-images.githubusercontent.com/14809064/28796911-3c55c37a-75f4-11e7-87ff-cd493ab3c56d.PNG">
 
 #### HA setup steps:
 Pre-configuration Requirements:
